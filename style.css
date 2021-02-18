@@ -1,0 +1,75 @@
+body{
+	background-color: #d19ff3;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	background-color: skyblue;
+	font-size: 50px;
+	font-family: Aclonica;
+}
+
+h2{
+	text-align: center;
+	color: orange;
+	font-size: 25px;
+	font-family: Aclonica;
+
+}
+
+h3{
+    text-align: center;
+	color: skyblue;
+	font-size: 40px;
+	font-family: Amatic SC;
+}
+
+
+section {
+	background-color: #f7fbca;
+	width:70%;
+	margin:20px auto; 
+	padding:30px;
+	text-align: center;
+
+}
+img {
+	height: 300px;
+	width: 100%;
+	object-fit: cover;
+
+	/*propiedades para centrar*/
+	display: block;
+	margin: 0px auto;
+}
+
+h4{
+	text-align: center;
+	color: orange;
+	font-size: 25px;
+	font-family: Aclonica;
+}
+
+h5{
+	text-align: center;
+	color: skyblue;
+	font-size: 40px;
+	font-family: Amatic SC;
+}
+
+h6{
+	text-align: center;
+	color: orange;
+	font-size: 25px;
+	font-family: Aclonica;
+}
+
+h7{
+	text-align: center;
+	color: skyblue;
+	font-size: 40px;
+	font-family: Amatic SC;
+}
+
+/*Probando GIT*/
